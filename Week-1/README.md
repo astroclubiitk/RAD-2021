@@ -1,0 +1,2 @@
+## Overview
+In this week we will cover the basics but the essentials of Astronomy such as the celestial sphere, coordinate systems, time systems and the popular retrograde motion. Also, since we primarily obtain observational data in terms of the electromagnetic waves, its essential to know about the spectra, magnitude scales and color index. We will get acquainted to the common terminologies of Astronomy which would be helpful at later stages.
