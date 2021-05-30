@@ -1,0 +1,2 @@
+## Overview
+This week we shall learn about the stellar spectral classes (i.e. O, B, A, F, G, K, M) and also Hertzsprung-Russell (H-R) Diagrams which help us understand the evolution of a star. A fun and easy mnemonic to remember stellar classes is  "Oh Be A Fine Girl, Kiss Me" where the first letter of each word represents stellar classes. After that we will learn about the celestial mechanics which governs how these planets and stars move through space under the inuence of gravitational field.
